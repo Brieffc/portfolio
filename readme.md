@@ -21,10 +21,10 @@ Here are the technologies used in this project.
 ## How to use
 
 1 - Home Page
-<img src="/assets/img/a1.png" width="700px">
+<img src="/assets/img/a3.png" width="700px">
 
 2 - Skills
-<img src="/assets/img/a2.png" width="700px">
+<img src="/assets/img/a4.png" width="700px">
 
 <br />
 <br />
