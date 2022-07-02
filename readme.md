@@ -12,18 +12,20 @@ Here are the technologies used in this project.
 <br />
 <br />
 
-## Services Used]
+## Services Used
 
 - Github
   <br />
   <br />
 
-## How to use
+# How to use
 
-1 - Home Page
+## 1 - Home Page
+
 <img src="/assets/img/a3.png" width="700px">
 
-2 - Skills
+## 2 - Skills
+
 <img src="/assets/img/a4.png" width="700px">
 
 <br />
